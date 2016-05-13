@@ -1,0 +1,22 @@
+{
+  "name": "nodesample",
+  "version": "1.0.0",
+  "description": "Sample node app for best practices and use",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "gulp release"
+  },
+  "keywords": [
+    "nodejs",
+    "sample",
+    "best",
+    "practices"
+  ],
+  "author": "Jason Wilczak",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "standard": "*"
+  }
+}
